@@ -1,1 +1,0 @@
-simulate_longitudinal_magnetization_libtorch
