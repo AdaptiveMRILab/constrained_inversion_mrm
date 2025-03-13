@@ -1,0 +1,80 @@
+[
+	{
+		"bandwidth": 3000.0,
+        "transition_width": 500.0,
+		"dur": 0.01,
+		"b1_tx_peak": 16.0,
+		"max_energy_fraction_of_hs_reference": 0.8,
+		"b1+_range": [0.8, 1.2],
+		"num_b1+": 11,
+		"num_offres": 256,
+		"raster_time": 8.0e-6,
+        "gamma_bar": 42.58e6,
+		"hs_for_reference": {
+			"dur": 0.01,
+			"beta": 5.3
+		},
+		"basis": {
+			"rank": 20,
+			"num_hs": 10000,
+			"dur_hs": [0.002, 0.02],
+			"beta_hs": [100.0, 1200.0],
+			"mu_hs": [1.0, 12.0],
+			"ranseed": 1234
+		},
+        "passband_weight": 2.0,
+		"sqp_max_iters": 3000
+	},
+	{
+		"bandwidth": 3000.0,
+        "transition_width": 500.0,
+		"dur": 0.01,
+		"b1_tx_peak": 16.0,
+		"max_energy_fraction_of_hs_reference": 0.9,
+		"b1+_range": [0.8, 1.2],
+		"num_b1+": 11,
+		"num_offres": 256,
+		"raster_time": 8.0e-6,
+        "gamma_bar": 42.58e6,
+		"hs_for_reference": {
+			"dur": 0.01,
+			"beta": 5.3
+		},
+		"basis": {
+			"rank": 20,
+			"num_hs": 10000,
+			"dur_hs": [0.002, 0.02],
+			"beta_hs": [100.0, 1200.0],
+			"mu_hs": [1.0, 12.0],
+			"ranseed": 1234
+		},
+        "passband_weight": 2.0,
+		"sqp_max_iters": 3000
+	},
+	{
+		"bandwidth": 3000.0,
+        "transition_width": 500.0,
+		"dur": 0.01,
+		"b1_tx_peak": 16.0,
+		"max_energy_fraction_of_hs_reference": 1.0,
+		"b1+_range": [0.8, 1.2],
+		"num_b1+": 11,
+		"num_offres": 256,
+		"raster_time": 8.0e-6,
+        "gamma_bar": 42.58e6,
+		"hs_for_reference": {
+			"dur": 0.01,
+			"beta": 5.3
+		},
+		"basis": {
+			"rank": 20,
+			"num_hs": 10000,
+			"dur_hs": [0.002, 0.02],
+			"beta_hs": [100.0, 1200.0],
+			"mu_hs": [1.0, 12.0],
+			"ranseed": 1234
+		},
+        "passband_weight": 2.0,
+		"sqp_max_iters": 3000
+	}
+]
