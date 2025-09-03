@@ -15,4 +15,4 @@ Separate Jupyter notebooks are provided to optimize the pulses, evaluate their p
 
 1. ```optimize_pulses.ipynb```
 2. ```evaluate_pulses.ipynb```
-3. ```plot_pulses.ipynb```
+3. ```generate_figures.ipynb```
