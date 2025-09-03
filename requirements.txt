@@ -55,7 +55,6 @@ PyWavelets==1.8.0
 pyzmq==26.3.0
 scipy==1.15.2
 sigpy==0.1.27
-simulate-longitudinal-magnetization-libtorch==0.0.0
 six==1.17.0
 stack-data==0.6.3
 sympy==1.13.1
